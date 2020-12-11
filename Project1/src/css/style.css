@@ -1,0 +1,92 @@
+.navbar{
+    background-color: maroon;
+}
+.nav-link{
+    color: white;
+}
+
+.page-header{
+    padding: 5px;
+    color: white;
+    display: flex;
+    background-color: rgb(158, 0, 0);
+    width: 100%;
+    height: 100%;
+    word-wrap: normal;
+}
+
+.deskripsi{
+    margin: 10px;
+    font-size: 3vh;
+    text-align: justify;
+}
+
+.page-section{
+    text-align: center;
+    justify-content: center;
+    margin: 1.5rem;
+}
+
+.col-md-3{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(194, 194, 194);
+}
+
+.jumbotron{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.services-title{
+    margin: 1rem
+}
+
+.time-title{
+    text-align: center;
+}
+
+.table{
+    background-color: mintcream;
+    line-height: 5vh;
+}
+
+.footer-section{
+    background: rgb(145, 0, 0);
+}
+
+.col-md-6{
+    background-color: rgb(179, 0, 0);
+    text-decoration-color: white;
+    padding-top: 1.5rem;
+}
+
+.alamat{
+    color: white;
+    padding-left: 1rem;
+}
+
+.textarea{
+    display: block;
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.25;
+  color: #464a4c;
+  background-color: #fff;
+  background-image: none;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+  -webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+  -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+}
+
+.btn-primary{
+    color: black;
+    background-color: white;
+}
